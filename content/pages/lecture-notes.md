@@ -12,22 +12,225 @@ P = Prof. Ronald Prinn
 
 At this time, only lecture notes by Prof. Prinn are available to OCW users.
 
-| Lec # | TOPICS | INSTRUCTORS |
-| --- | --- | --- |
-| 1 | Introduction, Properties of the Atmosphere ([PDF]({{< baseurl >}}/resources/lec1)) | P, M |
-| 2 | Combustion Sources and Stoichiometry | M |
-| 3 | Chemical Thermodynamics/Kinetics | M |
-| 4 | Radiative Transfer and Photochemistry | M |
-| 5 | Tropospheric Chemistry: CO | M |
-| 6 | Tropospheric Chemistry: NOx and Ozone | M |
-| 7 | Tropospheric Chemistry: HCHO and Ozone | M |
-| 8 | Tropospheric Chemistry: Complex Hydrocarbons | M |
-| 9-11 | Atmospheric Chemistry and Transport: Continuity Equation and Basic Structures ([PDF 1]({{< baseurl >}}/resources/lec9)) ([PDF 2]({{< baseurl >}}/resources/lec10)) | P |
-| 12-14 | Tropospheric Chemistry: Homogeneous Processes | M |
-| 15-16 | Air Pollution Controls | M |
-| 17 | Integrated Assessment of Air Pollution | M |
-| 18 | Atmospheric Transport Models: Numerical Integration ([PDF]({{< baseurl >}}/resources/lec11)) | P |
-| 19-21 | Atmospheric Chemical Transport Models: Examples and Measurement Systems ([PDF 1]({{< baseurl >}}/resources/lec18)) ([PDF 2]({{< baseurl >}}/resources/lec19)) ([PDF 3]({{< baseurl >}}/resources/lec20)) | P |
-| 22-24 | Inverse Methods: Optimal Estimation ([PDF 1]({{< baseurl >}}/resources/lec21)) ([PDF 2]({{< baseurl >}}/resources/lec22)) ([PDF 3]({{< baseurl >}}/resources/lec23)) | P |
-| 25-26 | Inverse Methods: Examples ([PDF 1]({{< baseurl >}}/resources/lec24)) ([PDF 2]({{< baseurl >}}/resources/lec26)) | P |
-| 27 | Integrated Assessment of Climate Change ([PDF - 1.4 MB]({{< baseurl >}}/resources/lec27)) | P
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Properties of the Atmosphere ([PDF]({{< baseurl >}}/resources/lec1))
+{{< tdclose >}}
+{{< tdopen >}}
+P, M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Combustion Sources and Stoichiometry
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Thermodynamics/Kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Radiative Transfer and Photochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Tropospheric Chemistry: CO
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Tropospheric Chemistry: NOx and Ozone
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Tropospheric Chemistry: HCHO and Ozone
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Tropospheric Chemistry: Complex Hydrocarbons
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-11
+{{< tdclose >}}
+{{< tdopen >}}
+Atmospheric Chemistry and Transport: Continuity Equation and Basic Structures ([PDF 1]({{< baseurl >}}/resources/lec9)) ([PDF 2]({{< baseurl >}}/resources/lec10))
+{{< tdclose >}}
+{{< tdopen >}}
+P
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-14
+{{< tdclose >}}
+{{< tdopen >}}
+Tropospheric Chemistry: Homogeneous Processes
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+Air Pollution Controls
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Integrated Assessment of Air Pollution
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Atmospheric Transport Models: Numerical Integration ([PDF]({{< baseurl >}}/resources/lec11))
+{{< tdclose >}}
+{{< tdopen >}}
+P
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-21
+{{< tdclose >}}
+{{< tdopen >}}
+Atmospheric Chemical Transport Models: Examples and Measurement Systems ([PDF 1]({{< baseurl >}}/resources/lec18)) ([PDF 2]({{< baseurl >}}/resources/lec19)) ([PDF 3]({{< baseurl >}}/resources/lec20))
+{{< tdclose >}}
+{{< tdopen >}}
+P
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22-24
+{{< tdclose >}}
+{{< tdopen >}}
+Inverse Methods: Optimal Estimation ([PDF 1]({{< baseurl >}}/resources/lec21)) ([PDF 2]({{< baseurl >}}/resources/lec22)) ([PDF 3]({{< baseurl >}}/resources/lec23))
+{{< tdclose >}}
+{{< tdopen >}}
+P
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Inverse Methods: Examples ([PDF 1]({{< baseurl >}}/resources/lec24)) ([PDF 2]({{< baseurl >}}/resources/lec26))
+{{< tdclose >}}
+{{< tdopen >}}
+P
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Integrated Assessment of Climate Change ([PDF - 1.4 MB]({{< baseurl >}}/resources/lec27))
+{{< tdclose >}}
+{{< tdopen >}}
+P
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
