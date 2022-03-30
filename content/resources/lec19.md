@@ -6,6 +6,7 @@ description: Lecture presentation covering methane similations, reference simula
   and DMS oxidation mechanism.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/42bb0fc1b384aabe0b98316a50073f1f_lec19.pdf
 file_type: application/pdf
+parent_uid: 72175500-1d85-0159-fef3-d1905422d4cc
 resourcetype: Document
 title: lec19.pdf
 uid: 42bb0fc1-b384-aabe-0b98-316a50073f1f
